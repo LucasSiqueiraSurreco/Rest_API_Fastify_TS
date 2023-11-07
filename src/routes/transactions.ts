@@ -1,5 +1,5 @@
 import { FastifyInstance } from 'fastify'
-import { setupKnex } from '../src/database'
+import { setupKnex } from '../database'
 import { z } from 'zod'
 import crypto from 'node:crypto'
 
